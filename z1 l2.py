@@ -1,4 +1,4 @@
-# -*- coding: cp1251 -*-  <-- Äîáàâü ýòó ñòðîêó â íà÷àëî!
+# -*- coding: cp1251 -*-
 from math import sqrt
 
 x = float(input('Введите значение x='))
